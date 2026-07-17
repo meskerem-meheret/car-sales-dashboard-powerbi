@@ -140,7 +140,7 @@ https://github.com/meskerem-meheret
 
 **LinkedIn**
 
-*(Add your LinkedIn profile URL here.)*
+https://www.linkedin.com/in/meskerem-meheret-2b104a33a/
 
 ---
 
