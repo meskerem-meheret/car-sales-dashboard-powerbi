@@ -113,7 +113,7 @@ The dashboard tracks important business metrics, including:
 ## How to Use
 
 1. Download the repository.
-2. Open `Car_Sales_Dashboard.pbix` using Microsoft Power BI Desktop.
+2. Open `Car Sales Dashboard.pbix` using Microsoft Power BI Desktop.
 3. Refresh the data if required.
 4. Use the filters and navigation buttons to explore different sales insights.
 
