@@ -30,13 +30,17 @@ The dashboard enables users to explore sales data through dynamic filters and in
 
 <div align="center">
 
-<img src="car1.png" width="40%" style="margin: 10px;">
+<table>
+<tr>
+<td><img src="car1.png" width="90%"></td>
+<td><img src="car2.png" width="90%"></td>
+</tr>
 
-<img src="car2.png" width="40%" style="margin: 10px;">
-
-<img src="car3.png" width="40%" style="margin: 10px;">
-
-<img src="carMenu.png" width="40%" style="margin: 10px;">
+<tr>
+<td><img src="car3.png" width="90%"></td>
+<td><img src="carMenu.png" width="90%"></td>
+</tr>
+</table>
 
 </div>
 
