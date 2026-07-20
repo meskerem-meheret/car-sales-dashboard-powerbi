@@ -96,6 +96,12 @@ The dashboard tracks important business metrics, including:
 - Data Modeling
 - Data Visualization
 
+![Microsoft Power BI](https://img.shields.io/badge/Microsoft%20Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
+![Power Query](https://img.shields.io/badge/Power%20Query-4CAF50?style=for-the-badge&logo=powerbi&logoColor=white)  
+![DAX](https://img.shields.io/badge/DAX-1E90FF?style=for-the-badge)  
+![Data Modeling](https://img.shields.io/badge/Data%20Modeling-8A2BE2?style=for-the-badge)  
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-FF8C00?style=for-the-badge)  
+
 ---
 
 ## Skills Demonstrated
