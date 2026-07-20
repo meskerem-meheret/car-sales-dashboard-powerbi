@@ -90,12 +90,6 @@ The dashboard tracks important business metrics, including:
 
 ## Tools & Technologies
 
-- Microsoft Power BI
-- Power Query
-- DAX (Data Analysis Expressions)
-- Data Modeling
-- Data Visualization
-
 ![Microsoft Power BI](https://img.shields.io/badge/Microsoft%20Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
 ![Power Query](https://img.shields.io/badge/Power%20Query-4CAF50?style=for-the-badge&logo=powerbi&logoColor=white)  
 ![DAX](https://img.shields.io/badge/DAX-1E90FF?style=for-the-badge)  
